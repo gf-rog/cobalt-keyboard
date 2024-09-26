@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "cobalt-kb")(type "KiCad")(uri "/home/user/files/kicad/cobalt-kb/cobalt-kb.kicad_sym")(options "")(descr ""))
+)
